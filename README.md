@@ -1,12 +1,12 @@
-### Hi there, I'm Amit Kaithwas - @kaithwasjr 👋
+### 👋, I'm Amit Kaithwas - @kaithwasjr
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kaithwas_jr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kaithwas_jr)
 
 ## I'm a Student, Developer, and Creator!!
 
 - 💻 I’m currently learning everything 💻 
-- 👯 I’m looking to collaborate with other technology experts
-- 🥅 Goals: Contribute more to Open Source projects
+-  I’m looking to collaborate with other technology experts
+- 🥅 Goals: ♾️
 - ⚡ Fun fact: Dance & music is my love.
 
 ### Connect with me:
