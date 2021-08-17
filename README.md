@@ -4,7 +4,6 @@
 
 ## I'm a Student, Developer, and Creator!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 💻 I’m currently learning everything 💻 
 - 👯 I’m looking to collaborate with other technology experts
 - 🥅 Goals: Contribute more to Open Source projects
