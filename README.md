@@ -1,49 +1,110 @@
-### 👋, I'm Amit Kaithwas - @kaithwasjr
+Amit Kaithwas
+📍 Indore, M.P., India
+📧 amitkaithwas200@gmail.com | 📱 +91 8982906358
+LinkedIn | GitHub | Twitter
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kaithwas_jr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kaithwas_jr)
+About Me
+Seasoned Frontend Developer with a solid foundation in Backend Technologies and a passion for building innovative web applications. Demonstrated leadership in team settings, excellent problem-solving skills, and active collaboration with technology experts. Seeking opportunities to contribute, grow, and make an impact in the tech space.
 
-## I'm a Student, Developer, and Creator!!
+Education
+B.Tech in Information Technology
+University Institute of Technology, RGPV – Bhopal, M.P. | CGPA: 7.07/10
+May 2021
 
-- 💻 I’m currently learning everything 💻 
--  I’m looking to collaborate with other technology experts
-- 🥅 Goals: ♾️
-- ⚡ Fun fact: Dance & music is my love.
+Diploma in Computer Science & Engineering
+MJP Government Polytechnic College – Khandwa, M.P. | CGPA: 6.69/10
+May 2016
 
-### Connect with me:
+Intermediate (High School +2)
+Saraswati Shishu Mandir, Kalyanganj – Khandwa, M.P. | Percentage: 79.4%
 
-[<img align="left" alt="kaithwas_jr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kaithwasjr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kaithwas_jr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Matriculation (10th)
+Saraswati Shishu Mandir, Vaikunthnagar – Khandwa, M.P. | Percentage: 76.33%
 
-<br />
+Technical Skills
+Proficient:
 
-### Languages and Tools:
+JavaScript (React.js, Redux, Node.js)
+HTML, CSS, PHP
+Familiar:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+Java, SQL, MySQL
+Git & GitHub
+Basic Understanding:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+C, OOPS, Machine Learning
+Experience
+ITGeeks Technologies – Team Leader & Web Developer
+Oct 2023 – Present | Dewas & Indore
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+Leading a team of developers and managing web projects end-to-end.
+Collaborated closely with clients to understand business needs and deliver solutions.
+Next Innovation Technology – Web Developer
+Jun 2023 – Oct 2023 | Bhopal
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+Worked on frontend and backend components of web applications.
+Enhanced user experiences through optimized UI/UX development.
+Potato Solutions Pvt. Ltd. – Backend Development Intern
+Nov 2021 – Jan 2022 | Remote
 
+Developed backend modules for client projects using PHP and MySQL.
+Projects
+ChatRtale – Chat-based Storytelling Web App
+Feb 2024 – Present | Remote
 
-<br />
-<br />
+Built a chat-based application with individual and group messaging.
+Integrated narrative storytelling features between users.
+Technologies: React, Node.js, MongoDB
 
----
+Web Builder Prototype
+Oct 2023 | Remote
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-![Kaithwasjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaithwasjr&show_icons=true&theme=dark)
+Developed a drag-and-drop website builder that allows users to customize layouts.
+Successfully deployed on Netlify: Web Builder Prototype
+Technologies: React, Node.js
 
-</details>
+Human Activity Recognition System (Major Project)
+Oct 2022 – Feb 2023 | Bhopal, M.P.
 
-[twitter]: https://twitter.com/kaithwas_jr
-[instagram]: https://instagram.com/kaithwas_jr
-[linkedin]: https://linkedin.com/in/kaithwasjr
+Developed a system to classify human activities using sensor data and ML.
+Applications include healthcare, fitness, and context-aware computing.
+
+Gym Management System (Freelance)
+Jan 2019 – May 2019 | Khandwa, M.P.
+
+Developed a system to manage gym memberships and services.
+Technologies: Java Swing, MySQL
+
+Certifications
+Programming Essentials in Python (08/2021 – 09/2021)
+Core Java Language (12/2018)
+Cisco CyberSecurity Essentials (03/2018)
+Computer Programming in C/C++ (03/2017 – 04/2017)
+
+Achievements
+Star Rising Award – ITGeeks Technologies
+Recognized for outstanding performance as a developer.
+
+Extracurricular Activities
+TRY – The Responsible Youth (NGO)
+Dec 2021 – Present | Bhopal, M.P.
+
+On a mission to make youth responsible through various social initiatives.
+Environmental Conservation Volunteer
+
+Organized clean-up drives and awareness campaigns for sustainability.
+
+Languages
+English – Intermediate Proficiency
+Hindi – Native / Full Professional Proficiency
+
+Interests
+Motorcycling
+Gaming and E-sports
+Photography
+Dance & Music
+
+Strengths
+Teamwork & Problem-Solving
+Flexibility and Time Management
+Self-Motivated & Detail-Oriented
