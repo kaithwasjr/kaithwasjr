@@ -1,128 +1,129 @@
+# Hi, I'm Amit Kaithwas 👋
 
-# **Amit Kaithwas**  
-📍 **Indore, M.P., India**  
-📧 **amitkaithwas200@gmail.com** | 📱 **+91 8982906358**  
-[**LinkedIn**](https://linkedin.com/in/kaithwasjr) | [**GitHub**](https://github.com/kaithwasjr) | [**Twitter**](https://twitter.com/kaithwas_jr)  
+**Full Stack Developer** | React.js • ASP.NET Core • Node.js
 
----
+Building scalable enterprise applications that solve real business problems.
 
-## **About Me**  
-💻 **Seasoned Frontend Developer** with a strong foundation in **Backend Technologies** and a passion for building innovative web applications. Experienced in **leading teams**, solving complex problems, and collaborating effectively with technology experts. **Seeking opportunities** to contribute, grow, and make an impact in the tech space.
+📍 Pune, Maharashtra, India  
+📧 [amitkaithwas200@gmail.com](mailto:amitkaithwas200@gmail.com)  
+📱 +91 8982906358  
 
----
-
-## **Education**  
-🎓 **B.Tech in Information Technology**  
-_University Institute of Technology, RGPV – Bhopal, M.P._ | **CGPA:** 7.07/10  
-📅 **Graduated:** May 2021  
-
-🎓 **Diploma in Computer Science & Engineering**  
-_MJP Government Polytechnic College – Khandwa, M.P._ | **CGPA:** 6.69/10  
-📅 **Graduated:** May 2016  
-
-🏫 **Intermediate (High School +2)**  
-_Saraswati Shishu Mandir, Kalyanganj – Khandwa, M.P._ | **Percentage:** 79.4%  
-
-🏫 **Matriculation (10th)**  
-_Saraswati Shishu Mandir, Vaikunthnagar – Khandwa, M.P._ | **Percentage:** 76.33%  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaithwasjr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaithwasjr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://amit-portfolio-showcase.netlify.app/)
 
 ---
 
-## **Technical Skills**  
-**Proficient in:**  
-- **JavaScript** (React.js, Redux, Node.js)  
-- **HTML, CSS, PHP**
+## About Me
 
-**Familiar with:**  
-- **Java, SQL, MySQL**  
-- **Git & GitHub**
+Results-driven **Full Stack Developer** with 2+ years of experience architecting and delivering enterprise-grade web applications. Specialized in building high-performance systems using React.js on the frontend and modern backends (ASP.NET Core & Node.js).
 
-**Basic Understanding of:**  
-- **C, OOPS, Machine Learning**
+Currently developing large-scale HRMS and international financial platforms used by **5000+ customers** and **2000+ active users**.
 
 ---
 
-## **Professional Experience**  
-### **ITGeeks Technologies** – Team Leader & Web Developer  
-📍 **Oct 2023 – Present** | Dewas & Indore  
-- Managing **end-to-end web projects** and leading a team of developers.  
-- Collaborating with clients to understand business needs and deliver tailored solutions.
+## 💼 Professional Experience
 
-### **Next Innovation Technology** – Web Developer  
-📍 **Jun 2023 – Oct 2023** | Bhopal  
-- Worked on **frontend and backend** components for various web applications.  
-- Improved **UI/UX** to enhance user experiences.
+### Full Stack Developer  
+**Botmatic Solutions Pvt. Ltd.** • Pune, Maharashtra  
+*Sep 2024 – Present*
 
-### **Potato Solutions Pvt. Ltd.** – Backend Development Intern  
-📍 **Nov 2021 – Jan 2022** | Remote  
-- Developed **backend modules** for client projects using PHP and MySQL.
+- Architected and delivered **two enterprise-grade products** (HRMS + AR platform) as lead Full Stack Developer.
+- Owned complete frontend architecture with React.js and backend with ASP.NET Core + SQL Server.
+- Mentored cross-functional teams and made key architecture decisions.
 
----
+**Key Projects:**
 
-## **Projects**  
-### **Web Builder Prototype**  
-📅 **Oct 2023** | Remote  
-- Developed a **drag-and-drop website builder** to allow users to customize layouts.  
-- **Deployed:** [Web Builder Prototype on Netlify](https://melodic-puffpuff-bcb14a.netlify.app/)  
-- **Technologies:** React, Node.js
+**MyBridge HRMS** — Full-Stack Enterprise HR System  
+5 Clients | 2000+ Active Users | [mybridgehr.com](https://mybridgehr.com)
+- Designed end-to-end Recruitment Pipeline that automated 80% of manual hiring flow.
+- Engineered single-click Indian Payroll module (Old/New tax regimes) — reduced tax-calculation time by 90%.
+- Built fully customizable RBAC system with 20+ roles and 8+ module-level permissions.
+- Implemented real-time WebSocket notifications handling 10,000+ daily events (<50ms latency).
 
-### **ChatRtale – Chat-based Storytelling Web App**  
-📅 **Feb 2024 – Present** | Remote  
-- Built a **chat-based application** supporting individual and group messaging.  
-- Integrated **narrative storytelling** between users.  
-- **Technologies:** React, Node.js, MongoDB  
+**JK Tornel Accounts Receivable System** — International AR Platform  
+5000+ Customers | [jktornelportal.com.mx](https://jktornelportal.com.mx)
+- Developed 50+ RESTful APIs managing 10,000+ monthly invoices in MXN & USD.
+- Created multi-step Payment Flow with draft persistence — reduced processing time from 5–7 days to under 5 minutes.
+- Built real-time Support Chat & Dispute Resolution Bot (auto-resolved 40% of Level-1 queries).
+- Implemented full i18n localization (EN/ES/PT/FR) and Tyre Claim Management module.
 
-### **Human Activity Recognition System** (Major Project)  
-📅 **Oct 2022 – Feb 2023** | Bhopal, M.P.  
-- Developed a system to **classify human activities** using sensor data and ML.  
-- Applications include **healthcare, fitness**, and context-aware computing.
+### Web Developer → Team Lead  
+**ITGeeks Technologies** • Dewas & Indore, Madhya Pradesh  
+*Oct 2023 – Aug 2024*
 
-### **Gym Management System** (Freelance Project)  
-📅 **Jan 2019 – May 2019** | Khandwa, M.P.  
-- Developed a system to **manage gym memberships and services.**  
-- **Technologies:** Java Swing, MySQL
+- Promoted to Team Lead within first year; mentored 3 junior developers.
+- Received **Star Rising Award** for outstanding performance and rapid progression.
+
+**Mobilify** — No-Code Mobile App Builder | [mobilifyapp.com](https://mobilifyapp.com)
+- Architected metadata-driven React/Redux UI engine from scratch.
+- Built JSON-configurable rendering system supporting 20+ UI components with <200ms render times.
+- Developed scalable Node.js + MongoDB backend using polymorphic schemas.
 
 ---
 
-## **Certifications**  
-🏅 **Programming Essentials in Python** | **08/2021 – 09/2021**  
-🏅 **Core Java Language** | **12/2018**  
-🏅 **Cisco CyberSecurity Essentials** | **03/2018**  
-🏅 **Computer Programming in C/C++** | **03/2017 – 04/2017**
+## 🎯 Featured Personal Project
+
+### 🎉 Eventomania — Event Management System
+**Full-Stack Role-Based Event Platform** (Solo Project)
+
+Complete event lifecycle management platform with Admin, Convenor & Member roles, QR code check-in, audience registration, membership portal, career portal, and post-event analytics.
+
+**Tech Stack:** React 18, Redux Toolkit, Node.js, Express.js, MongoDB, Material UI v6, Framer Motion, QR Code, jsPDF, Nodemailer
+
+**Highlights:**
+- Real-time QR scanner for venue check-in
+- Automated email invitations & PDF certificate/invoice generation
+- Rich event creation with banner & document upload
+- Admin dashboard with Nivo charts and export features
+
+[View on GitHub](https://github.com/kaithwasjr/eventomania) • [Live Demo](#) • [Portfolio Case Study](#)
 
 ---
 
-## **Achievements**  
-🏆 **Star Rising Award** – ITGeeks Technologies  
-- Recognized for **outstanding performance** as a developer.
+## 🛠️ Technical Skills
+
+**Frontend**  
+React.js • TypeScript • Redux Toolkit • Tailwind CSS • Material UI • HTML5 • CSS3 • Framer Motion
+
+**Backend & APIs**  
+ASP.NET Core (C#) • Node.js • Express.js • REST APIs • WebSockets (SignalR & Socket.io) • JWT Authentication
+
+**Databases**  
+SQL Server • MongoDB • MySQL
+
+**DevOps & Tools**  
+Docker • AWS • CI/CD (GitHub Actions) • Git • PDF Generation • i18n
 
 ---
 
-## **Extracurricular Activities**  
-### **TRY – The Responsible Youth (NGO)**  
-📅 **Dec 2021 – Present** | Bhopal, M.P.  
-- Leading initiatives to **make youth responsible** through social activities.
+## 🎓 Education
 
-### **Environmental Conservation Volunteer**  
-- Organized **clean-up drives** and **awareness campaigns** to promote sustainability.
+**Bachelor of Technology (B.Tech) in Information Technology**  
+University Institute of Technology, RGPV (UIT-RGPV), Bhopal  
+*Aug 2020 – June 2023* | CGPA: **7.07 / 10.0**
 
 ---
 
-## **Languages**  
-- **English** – Intermediate Proficiency  
-- **Hindi** – Native / Full Professional Proficiency
+## 🏆 Achievements & Activities
+
+- **Star Rising Award** – ITGeeks Technologies (2024)  
+  Recognized for outstanding performance and rapid growth as a developer.
+
+- **TRY – The Responsible Youth (NGO)**  
+  Active volunteer since Dec 2021, contributing to social initiatives and youth development.
 
 ---
 
-## **Interests**  
-- 🏍️ Motorcycling  
-- 🎮 Gaming and E-sports  
-- 📸 Photography  
-- 🎶 Dance & Music  
+## 📫 Let's Connect
+
+Always open to exciting opportunities, collaborations, or tech conversations!
+
+- **Email:** [amitkaithwas200@gmail.com](mailto:amitkaithwas200@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kaithwasjr](https://linkedin.com/in/kaithwasjr)
+- **Portfolio:** [amit-portfolio-showcase.netlify.app](https://amit-portfolio-showcase.netlify.app)
+- **Download Resume:** [Amit_CV.pdf](https://your-portfolio-link/Amit_CV_23_02.pdf) ← Upload your PDF and update the link
 
 ---
 
-## **Strengths**  
-- 🤝 **Teamwork & Problem-Solving**  
-- ⏳ **Flexibility and Time Management**  
-- 🎯 **Self-Motivated & Detail-Oriented**
+*Made with ❤️ and clean code*
